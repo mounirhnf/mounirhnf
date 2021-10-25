@@ -1,5 +1,6 @@
 # Hello there ! I am [Mounir HANAFI](https://mounirhanafi.com)
-I am a self taught front-end web developer, specialized in the ReactJs library. I have rich experience in designing and building modern and responsive user interfaces.
+I am a self-taught Web Developer and Graphic Designer based in Algeria.
+Being passionate about bringing both the technical and visual aspects of digital products, I can make sure that no detail is lost, which enables me to create modern, easy to use, and aesthetically appealing digital products.
 ## Technologies I use and master :
 ### Development
 * Javascript
@@ -32,5 +33,5 @@ I am a self taught front-end web developer, specialized in the ReactJs library. 
 ## How to reach me :
 * Website : [mounirhanafi.com](https://mounirhanafi.com)
 * Email : contact@mounirhanafi.com
-* Instagram : [@mounir_hanafi](https://instagram.com/mounir_hanafi)
-* Twitter : [@MounirHnf](https://twitter.com/MounirHnf)
+* Instagram : [@mounir.hanafi.dev](https://instagram.com/mounir.hanafi.dev)
+* Twitter : [@mounirhnf](https://twitter.com/mounirhnf)
