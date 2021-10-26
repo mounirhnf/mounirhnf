@@ -1,5 +1,5 @@
 # Hello there ! I am [Mounir Hanafi](https://mounirhanafi.com)
-I am a self-taught Web Developer and Graphic Designer based in Algeria.
+I am a self-taught Web Developer and Graphic Designer based in Algeria.\
 Being passionate about bringing both the technical and visual aspects of digital products, I can make sure that no detail is lost, which enables me to create modern, easy to use, and aesthetically appealing digital products.
 # Tools I use and master 🛠️
 ### Development 👨‍💻
